@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 * {
     padding: 0px;
     margin: 0;
@@ -22,7 +23,7 @@ body {
 .sidebar {
     background:  #1e2939;
     width: 360px;
-    height: 1085px;
+    height: 1100px;
     box-sizing:border-box;
     color: #ffffff;
     padding-top: 40px;
@@ -61,6 +62,11 @@ body {
     display: inline-flex;
     padding-top: 5px;
     margin: 5px;
+}
+.social-link-icon {
+    padding-right: 30px;
+    padding-left: 10px;
+    padding-top: 5px;
 }
 .skills-title {
     font-size: 22px;
